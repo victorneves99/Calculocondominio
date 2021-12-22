@@ -1,1 +1,3 @@
 # Calculocondominio
+
+2) Um Condomínio é composto por diversos blocos de apartamentos e que cada bloco gerencia suas próprias receitas e despesas independentemente. Considerando que existem apartamentos de diversos tamanhos e que o valor do condomínio depende da fração ideal de cada um, calcule o valor do condomínio de cada apartamento. O valor do condomínio é calculado de acordo com a somatória das despesas do bloco. Desenvolva uma classe em Java que armazene os apartamentos e suas respectivas áreas e que seja capaz de calcular o valor do condomínio de cada apartamento de acordo com o total das despesas informada.
